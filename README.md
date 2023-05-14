@@ -25,7 +25,7 @@
 
 # 📖 [My-Portfolio] <a name="about-project"></a>
 
-**[My-Portfolio] is a the capstone project for the Javascript and Networking Module, that takes part in the Microverse Full Stack Development Program. It is a responsive website and an optimized food webapp that contains two interfaces and which displays different meals , interactive likes and comments for each particular item.
+**[My-Portfolio] This project is a responsive website of my professional portfolio. It was built with React.
 
 ## 🛠 Built With <a name="built-with"></a>
 - HTML
@@ -56,7 +56,7 @@ Linters
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Link] 
+- [Link] https://aimas-portfolio.onrender.com/project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
