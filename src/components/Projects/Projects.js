@@ -26,7 +26,8 @@ function Projects() {
               imgPath={concert}
               isBlog={false}
               title="Concert Website"
-              description="Responsive website for a concert, from Mobile to desktop. This project was inspired by CC-Global-Summit-2015 website published in https://www.behance.net/ gallery."
+              description="Responsive website for a concert, from Mobile to desktop. This project was inspired by CC-Global-Summit-2015 website published in https://www.behance.net/ gallery.
+              Built with : JavaScript, HTML and CSS"
               ghLink="https://github.com/aima98/Concert-Website"
               demoLink="https://aima98.github.io/Concert-Website/"
             />
@@ -48,7 +49,8 @@ function Projects() {
               imgPath={bookstore}
               isBlog={false}
               title="Bookstore"
-              description="Bookstore is an app that allows the user to go through a list of books, add a new book and remove a book. It was built using React and Redux (state management)."
+              description="Bookstore is an app that allows the user to go through a list of books, add a new book and remove a book. It was built using React and Redux (state management).
+              Built with : React, CSS"
               ghLink="https://github.com/aima98/Bookstore"
               demoLink="https://bookstore-qgi5.onrender.com"
             />
@@ -59,7 +61,8 @@ function Projects() {
               imgPath={todo}
               isBlog={false}
               title="To-Do List App"
-              description="Todo-App is a simple webpage that helps users manage their daily task, you can list, add and remove todo items. It was built with React"
+              description="Todo-App is a simple webpage that helps users manage their daily task, you can list, add and remove todo items. It was built with React
+              Built with : React, and CSS"
               ghLink="https://github.com/aima98/React-ToDoList"
             />
           </Col>
@@ -69,7 +72,8 @@ function Projects() {
               imgPath={books}
               isBlog={false}
               title="Awesome Books"
-              description="Awesome books is a single-page web application that keeps track of books. Book details captured are the book title, author, and ISBN. Users can remove a book, add a new one, or view a list of books."
+              description="Awesome books is a single-page web application that keeps track of books. Book details captured are the book title, author, and ISBN. Users can remove a book, add a new one, or view a list of books.
+              Built with : JavaScript, HTML and CSS"
               ghLink="https://github.com/aima98/Awesome-Books-ES6"
               demoLink="https://aima98.github.io/Awesome-Books-ES6/"
             />
@@ -80,7 +84,8 @@ function Projects() {
               imgPath={math}
               isBlog={false}
               title="Math Magicians"
-              description="Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations or read random math-related quote."
+              description="Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations or read random math-related quote.
+              Built with : React and CSS"
               ghLink="https://github.com/aima98/Math-Magicians"
               demoLink="https://math-magician-wen0.onrender.com/"
             />
