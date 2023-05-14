@@ -38,7 +38,8 @@ function Projects() {
               imgPath={restaurant}
               isBlog={false}
               title="Restaurant App"
-              description="Restaurant App is a responsive website and an optimized food webapp that contains two interfaces and which displays different meals , interactive likes and comments for each particular item."
+              description="Restaurant App is a responsive website and an optimized food webapp that contains two interfaces and which displays different meals , interactive likes and comments for each particular item.
+              Built with : Javascript, HTML and CSS"
               ghLink="https://github.com/aima98/Javascript-Capstone-Project"
               demoLink="https://aima98.github.io/Javascript-Capstone-Project/dist/"
             />
@@ -50,7 +51,7 @@ function Projects() {
               isBlog={false}
               title="Bookstore"
               description="Bookstore is an app that allows the user to go through a list of books, add a new book and remove a book. It was built using React and Redux (state management).
-              Built with : React, CSS"
+              Built with : React and CSS"
               ghLink="https://github.com/aima98/Bookstore"
               demoLink="https://bookstore-qgi5.onrender.com"
             />

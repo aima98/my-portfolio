@@ -56,7 +56,7 @@ Linters
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Link] https://aimas-portfolio.onrender.com/project
+- [Link] https://aimas-portfolio.onrender.com/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
