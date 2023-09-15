@@ -5,7 +5,6 @@ import {
   SiVisualstudiocode,
   SiFigma,
   SiBootstrap,
-  SiGithubpages,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -19,9 +18,6 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiFigma />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiGithubpages />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiBootstrap />
